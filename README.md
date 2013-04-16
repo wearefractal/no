@@ -7,6 +7,7 @@
 <td>Package</td><td>no</td>
 </tr>
 <tr>
+<td>Description</td>
 <td>is no</td>
 </tr>
 <tr>
